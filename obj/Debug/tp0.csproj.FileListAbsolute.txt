@@ -1,0 +1,13 @@
+C:\Users\azizg\Desktop\itbs\mini-pr\tp0\obj\Debug\tp0.csproj.AssemblyReference.cache
+C:\Users\azizg\Desktop\itbs\mini-pr\tp0\obj\Debug\tp0.Form1.resources
+C:\Users\azizg\Desktop\itbs\mini-pr\tp0\obj\Debug\tp0.frmFactoriel.resources
+C:\Users\azizg\Desktop\itbs\mini-pr\tp0\obj\Debug\tp0.Properties.Resources.resources
+C:\Users\azizg\Desktop\itbs\mini-pr\tp0\obj\Debug\tp0.Tableau.resources
+C:\Users\azizg\Desktop\itbs\mini-pr\tp0\obj\Debug\tp0.csproj.GenerateResource.cache
+C:\Users\azizg\Desktop\itbs\mini-pr\tp0\obj\Debug\tp0.csproj.CoreCompileInputs.cache
+C:\Users\azizg\Desktop\itbs\mini-pr\tp0\bin\Debug\tp0.exe.config
+C:\Users\azizg\Desktop\itbs\mini-pr\tp0\bin\Debug\tp0.exe
+C:\Users\azizg\Desktop\itbs\mini-pr\tp0\bin\Debug\tp0.pdb
+C:\Users\azizg\Desktop\itbs\mini-pr\tp0\obj\Debug\tp0.exe
+C:\Users\azizg\Desktop\itbs\mini-pr\tp0\obj\Debug\tp0.pdb
+C:\Users\azizg\Desktop\itbs\mini-pr\tp0\obj\Debug\tp0.Jeux.resources
